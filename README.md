@@ -1,9 +1,11 @@
 # Claude Code Tutorial
 
-## チュートリアル
+- [日本語版](https://colab.research.google.com/github/engineercafe-jp/claude-code-tutorial/blob/main/ja.ipynb)
+- [English version](https://colab.research.google.com/github/engineercafe-jp/claude-code-tutorial/blob/main/en.ipynb)
 
-- [日本語](https://colab.research.google.com/github/engineercafejp/claude-code-tutorial/blob/main/ja.ipynb)
-- [英語](https://colab.research.google.com/github/engineercafejp/claude-code-tutorial/blob/main/en.ipynb)
+---
+
+**チュートリアルは以下の内容を`README.md`に記載し、Claude Codeに読ませて作成しました**
 
 ## プロジェクト概要
 
